@@ -32,7 +32,7 @@ public class CrunchyCrawler
     public static void main(String[] args) {
 
         System.out.println("Welcome to the CrunchyCrawler");
-        System.out.println("This programme only works with Chrome. Please close your browser now!");
+        System.out.println("This programme only works with Chrome. Please close your browser now!!");
         System.out.println("------------------------------------------------------------");
 
         List<String[]> animeDataArray = crawler(); //Get all Animes from Crunchyroll
